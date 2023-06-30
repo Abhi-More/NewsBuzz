@@ -1,6 +1,8 @@
 # NewsBuzz
 NewsBuzz is an Android News application that provides up-to-date news articles and headlines from various sources. It leverages the power of the Retrofit library for API integration, allowing seamless communication with an online free Rapid API.
 
+https://github.com/Abhi-More/NewsBuzz/assets/95474018/3b413dbd-b644-41c2-9636-27df548dd852
+
 # Features
 * Browse news articles across different categories: All news, Sports, Technology, Science, Business, Entertainment, and Health.
 * Read detailed articles within the app's intuitive and user-friendly interface.
