@@ -2,10 +2,10 @@
 NewsBuzz is an Android News application that provides up-to-date news articles and headlines from RapidAPI. It leverages the power of the Retrofit library for API integration, allowing seamless communication with an online free Rapid API.
 
 # Features
-Browse news articles across different categories: All news, Sports, Technology, Science, Business, Entertainment, and Health.
-Read detailed articles within the app's intuitive and user-friendly interface.
-Light and dark mode options for personalized visual preferences.
-Open the full news article in a web browser, redirecting users to the website from which the news is fetched.
+* Browse news articles across different categories: All news, Sports, Technology, Science, Business, Entertainment, and Health.
+* Read detailed articles within the app's intuitive and user-friendly interface.
+* Light and dark mode options for personalized visual preferences.
+* Open the full news article in a web browser, redirecting users to the website from which the news is fetched.
 
 # Technologies Used
 Java: The application is developed using Java programming language, a popular choice for Android app development.
